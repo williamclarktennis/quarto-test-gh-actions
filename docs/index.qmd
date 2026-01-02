@@ -1,0 +1,16 @@
+---
+title: "docs"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+Here is how I think this will work. 
+Set up .gitignore file. 
+What do I select on the Github pages page? 
+Do I select publish with github action 
+or do I select publish with gh-pages (i.e. publish 
+with a branch)? What happens when running 
+quarto publish gh-pages without selecting 
+github pages publish from branch? 
