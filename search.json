@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "docs",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nHere is how I think this will work. Set up .gitignore file. What do I select on the Github pages page? Do I select publish with github action or do I select publish with gh-pages (i.e. publish with a branch)? What happens when running quarto publish gh-pages without selecting github pages publish from branch?"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nHere is how I think this will work. Set up .gitignore file. What do I select on the Github pages page? Do I select publish with github action or do I select publish with gh-pages (i.e. publish with a branch)? What happens when running quarto publish gh-pages without selecting github pages publish from branch?\nSo I will edit this file, then I will add and commit, then I will push to origin, and hopefully, without the github action will republish my website. If it doesn’t work, I will try adding my github workflows to git."
   }
 ]
