@@ -13,4 +13,10 @@ Do I select publish with github action
 or do I select publish with gh-pages (i.e. publish 
 with a branch)? What happens when running 
 quarto publish gh-pages without selecting 
-github pages publish from branch? 
+github pages publish from branch?
+
+So I will edit this file, then I will 
+add and commit, then I will push to origin, 
+and hopefully, without the github action will
+republish my website. If it doesn't work, 
+I will try adding my github workflows to git.  
